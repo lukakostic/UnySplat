@@ -2,6 +2,7 @@
 Splatoon-like painting in unity on any-shape mesh colliders, with some edge handling.
 
 Left click - raycast paint (center of screen)
+
 Right click - throw tomato (paint blob)
 
 It just boils down to:
